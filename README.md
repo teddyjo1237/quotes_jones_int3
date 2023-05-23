@@ -5,10 +5,10 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- `initiator`: PIERRO Vincent Group B
-- `contributor-1`: BAR Foo Group B
-- `contributor-2`: WIZZ Bang B 
-- `contributor-3`: TOTO Titi Group B 
+- `initiator`: PIERRO Vincent INT3
+- `contributor-1`: MUSQUIN Maxime INT3
+- `contributor-2`: IESTYN Jones INT3
+- `contributor-3`: LEBOURGEOIS Jeremy INT3
 
 ## Fork urls
 - `contributor-1`: [quotes-bar-b](url-1)
